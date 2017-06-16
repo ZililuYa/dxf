@@ -2,7 +2,7 @@
   "name": "dxf",
   "version": "2.4.2",
   "description": "DXF parser for node/browser",
-  "main": "lib/index.js",
+  "main": "examples/toSVG.js",
   "engines": {
     "node": ">=4.4.7"
   },

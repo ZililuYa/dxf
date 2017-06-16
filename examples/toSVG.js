@@ -3,9 +3,9 @@
 const fs = require('fs');
 
 const dxf = require('..');
-const parsed = dxf.parseString(fs.readFileSync(
-  './test/resources/Ceco.NET-Architecture-Tm-53.dxf', 'utf-8'));
 
-// Open this SVG in your browser or other SVG viewer
-const svg = dxf.toSVG(parsed);
-fs.writeFileSync(__dirname + '/example.svg', svg, 'utf-8');
+export default (dxfPath, svgPath, code) => {
+    const parsed = dxf.parseString(fs.readFileSync(dxfPath, code || 'utf-8'));
+    const svg = dxf.toSVG(parsed);
+    fs.writeFileSync(svgPath, svg, code || 'utf-8');
+}
