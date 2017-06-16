@@ -1,5 +1,5 @@
 {
-  "name": "dxf",
+  "name": "dxf-to-svg",
   "version": "2.4.2",
   "description": "DXF parser for node/browser",
   "main": "examples/toSVG.js",
@@ -13,18 +13,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bjnortier/dxf.git"
+    "url": "git@github.com:nesfe/dxf.git"
   },
   "keywords": [
     "DXF",
     "Parser"
   ],
-  "author": "Ben Nortier <ben@bjnortier.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bjnortier/dxf/issues"
+    "url": "https://github.com/nesfe/dxf/issues"
   },
-  "homepage": "https://github.com/bjnortier/dxf",
+  "homepage": "https://github.com/nesfe/dxf",
   "devDependencies": {
     "babel-core": "^6.5.2",
     "babel-loader": "^6.2.2",

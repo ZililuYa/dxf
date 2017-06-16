@@ -2,27 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="828ad6df-d56e-49f1-9cef-5f5e496a7fc5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/Ceco.NET-Architecture-Tm-53.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/accumulatortest.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/blocks.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/blocks2.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/circlesellipsesarcs.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/closedlwpolylinebug.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/dimensions.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/empty.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/entities.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/floorplan.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/hatches.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/layers.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/lines.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/lwpolylines.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/points.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/polylines.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/splines.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/supported_entities.dxf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test/resources/texts.dxf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/examples/toSVG.js" afterPath="$PROJECT_DIR$/examples/toSVG.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -51,8 +30,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="400">
+              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -98,10 +77,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="9" />
-    <option name="y" value="31" />
-    <option name="width" value="1370" />
-    <option name="height" value="735" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -241,19 +220,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1497597823111</updated>
-      <workItem from="1497597824360" duration="453000" />
+      <workItem from="1497597824360" duration="1612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="453000" />
+    <option name="totallyTimeSpent" value="1612000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="9" y="31" width="1370" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24776785" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -325,8 +303,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="400">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
           <folding />
         </state>
       </provider>
